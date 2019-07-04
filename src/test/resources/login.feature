@@ -11,5 +11,4 @@ Then Close the application
 
 Examples:
 |uname||pass|
-|harrypotter||alohomora|
-|aparna||nimbus2000|
+|whitewalkers||khaleesi|
