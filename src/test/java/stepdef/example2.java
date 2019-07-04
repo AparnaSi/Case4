@@ -20,9 +20,9 @@ public class example2 {
 	    driver= new ChromeDriver();
 	    driver.get("http://10.232.237.143:443/TestMeApp/login.htm");
 	    WebElement un= driver.findElement(By.name("userName"));
-		   un.sendKeys("aishsaran");
+		   un.sendKeys("lalitha");
 		   WebElement pass= driver.findElement(By.name("password"));
-			pass.sendKeys("aishusaran");
+			pass.sendKeys("Password123");
 			 WebElement login= driver.findElement(By.name("Login"));
 			    login.click();}
 
